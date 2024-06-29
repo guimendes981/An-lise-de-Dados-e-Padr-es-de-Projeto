@@ -1,21 +1,19 @@
 # ANALISE DE DADOS E PADRÕES DE PROJETO
 
-## 1. Aula 1
-
-### O que são requisitos?
+## O que são requisitos?
 Requisitos em um projeto de sofware sao descrições detalhadas das funcionalidades e restrições que um sistema deve atender para satisfazer as necessidades do cliente. Eles são a base para a definição do escopo do projeto e servem como guia para o desenvolvimento do software.
 
-### Levantamento de requisitos
+## Levantamento de requisitos
 É o ponto de partida para compreender as expectativas e requsitos dos [stakeholders](#stakeholders) e definir o escopo do projeto. O levantamento de requisitos é uma atividade crítica para o sucesso do projeto, pois é a partir dele que se define o que será feito e como será feito.
 
-#### Técnicas de levantamento de requisitos
+### Técnicas de levantamento de requisitos
 - **Entrevistas**: Conversas com os stakeholders para entender suas necessidades.
 - **Questionários**: Formulários com perguntas para os stakeholders.
 - **Observação**: Observar o ambiente de trabalho dos stakeholders.
 - **Prototipação**: Criar protótipos para validar as ideias com os stakeholders.
 - **Workshops**: Reuniões com os stakeholders para discutir os requisitos.
 
-#### Etapas do levantamento de requisitos
+### Etapas do levantamento de requisitos
 1. **Identificação dos stakeholders**: Identificar as pessoas que serão impactadas pelo sistema.
 2. **Entendimento do negócio**: Compreender o negócio e as necessidades dos stakeholders.
 3. **Definição do escopo**: Definir o que será feito e o que não será feito no projeto.
