@@ -46,6 +46,10 @@ Eu, como [usuário], desejo [funcionalidade] para que [objetivo], por que [motiv
 O diagrama de caso de uso é uma representação gráfica dos requisitos do sistema, mostrando as interações entre os atores e o sistema
 Um documento de requisitos é uma descrição detalhada das funcionalidades e restrições que um sistema deve atender para satisfazer as necessidades do cliente.
 
+Podemos desenhar um diagrama de caso de uso para representar os requisitos do sistema, mostrando as interações entre os atores e o sistema.
+
+![alt text](image.png)
+
 ### Diagrama de Classes
 O diagrama de classes é uma representação gráfica da estrutura do sistema, mostrando as classes, atributos e métodos do sistema, bem como as relações entre elas.
 
