@@ -6,7 +6,7 @@
 2. Começar trabalhando requisitos [funcionais](#requisitos) e [não] funcionais do sistema.
 3. Depois, fazer um [diagrama de caso de uso](#diagrama-de-caso-de-uso) para representar os requisitos.
     - Não precisa desenhar o diagrama de caso de uso, apenas descrever os requisitos.
-4. Em seguida, fazer um [diagrama de classes] (#diagrama-de-classes) para representar a estrutura do sistema.
+4. Em seguida, fazer um [diagrama de classes](#diagrama-de-classes) para representar a estrutura do sistema.
     - O diagrama de classes o professor quer DESCRITO
 
 5. O professor não quer algo muito detalhado, mas quer que os conceitos estejam claros e diretos.
