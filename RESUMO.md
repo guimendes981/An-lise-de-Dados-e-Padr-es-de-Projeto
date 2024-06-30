@@ -71,6 +71,15 @@ Podemos desenhar um diagrama de caso de uso para representar os requisitos do si
 ### Diagrama de Classes
 O diagrama de classes é uma representação gráfica da estrutura do sistema, mostrando as classes, atributos e métodos do sistema, bem como as relações entre elas.
 
+![alt text](image-1.png)
+
+#### Passos para criar um diagrama de classes
+1. Identificar as classes do sistema.
+2. Identificar os atributos e métodos de cada classe.
+3. Identificar as relações entre as classes.
+4. Desenhar o diagrama de classes.
+
+
 ### Diagrama de Sequência
 O diagrama de sequência é uma representação gráfica da interação entre os objetos do sistema, mostrando a ordem em que as mensagens são trocadas entre eles.
 
