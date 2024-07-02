@@ -2,14 +2,8 @@
 
 
 # IMPORTANTE: COMO VAI SER A PROVA!!!!!!
-1. Vai ser dado um [cenário] um pouco maior que o cenário da aula do dia [29/05].
-2. Começar trabalhando requisitos [funcionais](#requisitos) e [não] funcionais do sistema.
-3. Depois, fazer um [diagrama de caso de uso](#diagrama-de-caso-de-uso) para representar os requisitos.
-    - Não precisa desenhar o diagrama de caso de uso, apenas descrever os requisitos.
-4. Em seguida, fazer um [diagrama de classes](#diagrama-de-classes) para representar a estrutura do sistema.
-    - O diagrama de classes o professor quer DESCRITO
-
-5. O professor não quer algo muito detalhado, mas quer que os conceitos estejam claros e diretos.
+1. Todo conteúdo até agora menos design patterns.
+2. Analise de requitos, casos de uso, diagrama de classes, MULTIPLA ESCOLHA
 
 ## O que são requisitos?
 Requisitos em um projeto de sofware sao descrições detalhadas das funcionalidades e restrições que um sistema deve atender para satisfazer as necessidades do cliente. Eles são a base para a definição do escopo do projeto e servem como guia para o desenvolvimento do software.
@@ -78,7 +72,7 @@ O diagrama de classes é uma representação gráfica da estrutura do sistema, m
 2. Identificar os atributos e métodos de cada classe.
 3. Identificar as relações entre as classes.
 4. Desenhar o diagrama de classes.
-
+[]
 
 ### Diagrama de Sequência
 O diagrama de sequência é uma representação gráfica da interação entre os objetos do sistema, mostrando a ordem em que as mensagens são trocadas entre eles.
