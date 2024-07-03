@@ -5,6 +5,25 @@
 1. Todo conteúdo até agora menos design patterns.
 2. Analise de requitos, casos de uso, diagrama de classes, MULTIPLA ESCOLHA
 
+
+
+## Relações entre classes
+1. **Associação**: Relação entre duas classes que indica que uma classe "tem" ou "usa" a outra classe.
+    - Exemplo: Uma classe `Carro` tem uma associação com a classe `Motor`.
+
+2. **Agregação**: Relação entre duas classes que indica que uma classe "tem" ou "contém" a outra classe.
+    - Exemplo: Uma classe `Carro` tem uma agregação com a classe `Motor`.
+
+3. **Composição**: Relação entre duas classes que indica que uma classe "possui" a outra classe.
+    - Exemplo: Uma classe `Carro` tem uma composição com a classe `Motor`.
+
+4. **Herança**: Relação entre duas classes que indica que uma classe "é uma" outra classe.
+    - Exemplo: Uma classe `Carro` herda da classe `Veiculo`.
+
+5. **Dependência**: Relação entre duas classes que indica que uma classe "depende" da outra classe.
+    - Exemplo: Uma classe `Carro` depende da classe `Motor`.
+
+
 ## O que são requisitos?
 Requisitos em um projeto de sofware sao descrições detalhadas das funcionalidades e restrições que um sistema deve atender para satisfazer as necessidades do cliente. Eles são a base para a definição do escopo do projeto e servem como guia para o desenvolvimento do software.
 
